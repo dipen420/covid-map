@@ -1,0 +1,9 @@
+
+.chartContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.chart {
+  width: 90%;
+}
